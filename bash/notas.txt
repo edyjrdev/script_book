@@ -1,0 +1,19 @@
+incluir pasta de scripts para o bash rodar ao final do arquivo
+/home/edyjr/.bashrc
+
+export PATH=/home/edyjr/scripts:$PATH
+
+zsh
+
+sudo apt install zsh
+
+chsh -s $(which zsh)
+
+reboot
+
+Opção 2
+
+plugins zsh
+https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/refs/heads/master/tools/install.sh
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/refs/heads/master/tools/install.sh)"
