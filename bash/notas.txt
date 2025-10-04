@@ -7,13 +7,21 @@ zsh
 
 sudo apt install zsh
 
+- mudar para zsh
 chsh -s $(which zsh)
+
+-mudar para o bash
+chsh -s $(which bash)
 
 reboot
 
 Opção 2
 
-plugins zsh
+ohmyzsh - plugin do zsh
 https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/refs/heads/master/tools/install.sh
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/refs/heads/master/tools/install.sh)"
+
+
+usar template.sh
+chmod +x template.sh
