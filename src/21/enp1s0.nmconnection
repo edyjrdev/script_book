@@ -1,0 +1,22 @@
+# static NetworkManager configuration file
+# ipv4 / enp7s0 / MAC = ...:27
+# see setup-vm-network.sh
+
+[connection]
+id=enp1s0
+uuid=10b7b4f7-ae9f-395a-9b62-64927240cffe
+type=ethernet
+autoconnect-priority=-999
+interface-name=enp1s0
+timestamp=1677234470
+
+[ipv4]
+address1=192.168.122.27/24,192.168.122.1
+dns=192.168.122.1;
+method=manual
+
+[ipv6]
+addr-gen-mode=eui64
+method=disabled
+
+

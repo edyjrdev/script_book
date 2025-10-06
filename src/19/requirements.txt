@@ -1,0 +1,2 @@
+PyExifTool==0.5.5
+PyMySQL==1.0.2

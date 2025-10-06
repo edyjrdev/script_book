@@ -1,0 +1,502 @@
+[
+	{
+		"emp_no" : 10001,
+		"birth_date" : "1953-09-02",
+		"first_name" : "Georgi",
+		"last_name" : "Facello",
+		"gender" : "M",
+		"hire_date" : "1986-06-26",
+		"salary" : 88958,
+		"hiredate" : "2002-06-22"
+	},
+	{
+		"emp_no" : 10002,
+		"birth_date" : "1964-06-02",
+		"first_name" : "Bezalel",
+		"last_name" : "Simmel",
+		"gender" : "F",
+		"hire_date" : "1985-11-21",
+		"salary" : 72527,
+		"hiredate" : "2001-08-02"
+	},
+	{
+		"emp_no" : 10003,
+		"birth_date" : "1959-12-03",
+		"first_name" : "Parto",
+		"last_name" : "Bamford",
+		"gender" : "M",
+		"hire_date" : "1986-08-28",
+		"salary" : 43699,
+		"hiredate" : "2001-12-01"
+	},
+	{
+		"emp_no" : 10004,
+		"birth_date" : "1954-05-01",
+		"first_name" : "Chirstian",
+		"last_name" : "Koblick",
+		"gender" : "M",
+		"hire_date" : "1986-12-01",
+		"salary" : 74057,
+		"hiredate" : "2001-11-27"
+	},
+	{
+		"emp_no" : 10005,
+		"birth_date" : "1955-01-21",
+		"first_name" : "Kyoichi",
+		"last_name" : "Maliniak",
+		"gender" : "M",
+		"hire_date" : "1989-09-12",
+		"salary" : 94692,
+		"hiredate" : "2001-09-09"
+	},
+	{
+		"emp_no" : 10006,
+		"birth_date" : "1953-04-20",
+		"first_name" : "Anneke",
+		"last_name" : "Preusig",
+		"gender" : "F",
+		"hire_date" : "1989-06-02",
+		"salary" : 60098,
+		"hiredate" : "2001-08-02"
+	},
+	{
+		"emp_no" : 10007,
+		"birth_date" : "1957-05-23",
+		"first_name" : "Tzvetan",
+		"last_name" : "Zielinski",
+		"gender" : "F",
+		"hire_date" : "1989-02-10",
+		"salary" : 88070,
+		"hiredate" : "2002-02-07"
+	},
+	{
+		"emp_no" : 10008,
+		"birth_date" : "1958-02-19",
+		"first_name" : "Saniya",
+		"last_name" : "Kalloufi",
+		"gender" : "M",
+		"hire_date" : "1994-09-15",
+		"salary" : 52668,
+		"hiredate" : "2000-03-10"
+	},
+	{
+		"emp_no" : 10009,
+		"birth_date" : "1952-04-19",
+		"first_name" : "Sumant",
+		"last_name" : "Peac",
+		"gender" : "F",
+		"hire_date" : "1985-02-18",
+		"salary" : 94443,
+		"hiredate" : "2002-02-14"
+	},
+	{
+		"emp_no" : 10010,
+		"birth_date" : "1963-06-01",
+		"first_name" : "Duangkaew",
+		"last_name" : "Piveteau",
+		"gender" : "F",
+		"hire_date" : "1989-08-24",
+		"salary" : 80324,
+		"hiredate" : "2001-11-23"
+	},
+	{
+		"emp_no" : 10011,
+		"birth_date" : "1953-11-07",
+		"first_name" : "Mary",
+		"last_name" : "Sluis",
+		"gender" : "F",
+		"hire_date" : "1990-01-22",
+		"salary" : 56753,
+		"hiredate" : "1996-01-21"
+	},
+	{
+		"emp_no" : 10012,
+		"birth_date" : "1960-10-04",
+		"first_name" : "Patricio",
+		"last_name" : "Bridgland",
+		"gender" : "M",
+		"hire_date" : "1992-12-18",
+		"salary" : 54794,
+		"hiredate" : "2001-12-16"
+	},
+	{
+		"emp_no" : 10013,
+		"birth_date" : "1963-06-07",
+		"first_name" : "Eberhardt",
+		"last_name" : "Terkki",
+		"gender" : "M",
+		"hire_date" : "1985-10-20",
+		"salary" : 68901,
+		"hiredate" : "2001-10-16"
+	},
+	{
+		"emp_no" : 10014,
+		"birth_date" : "1956-02-12",
+		"first_name" : "Berni",
+		"last_name" : "Genin",
+		"gender" : "M",
+		"hire_date" : "1987-03-11",
+		"salary" : 60598,
+		"hiredate" : "2001-12-27"
+	},
+	{
+		"emp_no" : 10015,
+		"birth_date" : "1959-08-19",
+		"first_name" : "Guoxiang",
+		"last_name" : "Nooteboom",
+		"gender" : "M",
+		"hire_date" : "1987-07-02",
+		"salary" : 40000,
+		"hiredate" : "1992-09-19"
+	},
+	{
+		"emp_no" : 10016,
+		"birth_date" : "1961-05-02",
+		"first_name" : "Kazuhito",
+		"last_name" : "Cappelletti",
+		"gender" : "M",
+		"hire_date" : "1995-01-27",
+		"salary" : 77935,
+		"hiredate" : "2002-02-10"
+	},
+	{
+		"emp_no" : 10017,
+		"birth_date" : "1958-07-06",
+		"first_name" : "Cristinel",
+		"last_name" : "Bouloucos",
+		"gender" : "F",
+		"hire_date" : "1993-08-03",
+		"salary" : 99651,
+		"hiredate" : "2002-08-01"
+	},
+	{
+		"emp_no" : 10018,
+		"birth_date" : "1954-06-19",
+		"first_name" : "Kazuhide",
+		"last_name" : "Peha",
+		"gender" : "F",
+		"hire_date" : "1987-04-03",
+		"salary" : 84672,
+		"hiredate" : "2002-03-30"
+	},
+	{
+		"emp_no" : 10019,
+		"birth_date" : "1953-01-23",
+		"first_name" : "Lillian",
+		"last_name" : "Haddadi",
+		"gender" : "M",
+		"hire_date" : "1999-04-30",
+		"salary" : 50032,
+		"hiredate" : "2002-04-29"
+	},
+	{
+		"emp_no" : 10020,
+		"birth_date" : "1952-12-24",
+		"first_name" : "Mayuko",
+		"last_name" : "Warwick",
+		"gender" : "M",
+		"hire_date" : "1991-01-26",
+		"salary" : 47017,
+		"hiredate" : "2001-12-29"
+	},
+	{
+		"emp_no" : 10021,
+		"birth_date" : "1960-02-20",
+		"first_name" : "Ramzi",
+		"last_name" : "Erde",
+		"gender" : "M",
+		"hire_date" : "1988-02-10",
+		"salary" : 84169,
+		"hiredate" : "2002-02-06"
+	},
+	{
+		"emp_no" : 10022,
+		"birth_date" : "1952-07-08",
+		"first_name" : "Shahaf",
+		"last_name" : "Famili",
+		"gender" : "M",
+		"hire_date" : "1995-08-22",
+		"salary" : 41348,
+		"hiredate" : "2001-09-02"
+	},
+	{
+		"emp_no" : 10023,
+		"birth_date" : "1953-09-29",
+		"first_name" : "Bojan",
+		"last_name" : "Montemayor",
+		"gender" : "F",
+		"hire_date" : "1989-12-17",
+		"salary" : 50319,
+		"hiredate" : "2001-09-26"
+	},
+	{
+		"emp_no" : 10024,
+		"birth_date" : "1958-09-05",
+		"first_name" : "Suzette",
+		"last_name" : "Pettey",
+		"gender" : "F",
+		"hire_date" : "1997-05-19",
+		"salary" : 96646,
+		"hiredate" : "2002-06-13"
+	},
+	{
+		"emp_no" : 10025,
+		"birth_date" : "1958-10-31",
+		"first_name" : "Prasadram",
+		"last_name" : "Heyers",
+		"gender" : "M",
+		"hire_date" : "1987-08-17",
+		"salary" : 57585,
+		"hiredate" : "1997-08-14"
+	},
+	{
+		"emp_no" : 10026,
+		"birth_date" : "1953-04-03",
+		"first_name" : "Yongqiao",
+		"last_name" : "Berztiss",
+		"gender" : "M",
+		"hire_date" : "1995-03-20",
+		"salary" : 66313,
+		"hiredate" : "2002-03-18"
+	},
+	{
+		"emp_no" : 10027,
+		"birth_date" : "1962-07-10",
+		"first_name" : "Divier",
+		"last_name" : "Reistad",
+		"gender" : "F",
+		"hire_date" : "1989-07-07",
+		"salary" : 46145,
+		"hiredate" : "2002-03-31"
+	},
+	{
+		"emp_no" : 10028,
+		"birth_date" : "1963-11-26",
+		"first_name" : "Domenick",
+		"last_name" : "Tempesti",
+		"gender" : "M",
+		"hire_date" : "1991-10-22",
+		"salary" : 58502,
+		"hiredate" : "1997-10-20"
+	},
+	{
+		"emp_no" : 10029,
+		"birth_date" : "1956-12-13",
+		"first_name" : "Otmar",
+		"last_name" : "Herbst",
+		"gender" : "M",
+		"hire_date" : "1985-11-20",
+		"salary" : 77777,
+		"hiredate" : "2001-09-15"
+	},
+	{
+		"emp_no" : 10030,
+		"birth_date" : "1958-07-14",
+		"first_name" : "Elvis",
+		"last_name" : "Demeyer",
+		"gender" : "M",
+		"hire_date" : "1994-02-17",
+		"salary" : 88806,
+		"hiredate" : "2002-02-15"
+	},
+	{
+		"emp_no" : 10031,
+		"birth_date" : "1959-01-27",
+		"first_name" : "Karsten",
+		"last_name" : "Joslin",
+		"gender" : "M",
+		"hire_date" : "1991-09-01",
+		"salary" : 56689,
+		"hiredate" : "2001-08-29"
+	},
+	{
+		"emp_no" : 10032,
+		"birth_date" : "1960-08-09",
+		"first_name" : "Jeong",
+		"last_name" : "Reistad",
+		"gender" : "F",
+		"hire_date" : "1990-06-20",
+		"salary" : 69539,
+		"hiredate" : "2002-06-17"
+	},
+	{
+		"emp_no" : 10033,
+		"birth_date" : "1956-11-14",
+		"first_name" : "Arif",
+		"last_name" : "Merlo",
+		"gender" : "M",
+		"hire_date" : "1987-03-18",
+		"salary" : 60433,
+		"hiredate" : "1993-03-16"
+	},
+	{
+		"emp_no" : 10034,
+		"birth_date" : "1962-12-29",
+		"first_name" : "Bader",
+		"last_name" : "Swan",
+		"gender" : "M",
+		"hire_date" : "1988-09-21",
+		"salary" : 53164,
+		"hiredate" : "1999-04-11"
+	},
+	{
+		"emp_no" : 10035,
+		"birth_date" : "1953-02-08",
+		"first_name" : "Alain",
+		"last_name" : "Chappelet",
+		"gender" : "M",
+		"hire_date" : "1988-09-05",
+		"salary" : 68755,
+		"hiredate" : "2001-09-02"
+	},
+	{
+		"emp_no" : 10036,
+		"birth_date" : "1959-08-10",
+		"first_name" : "Adamantios",
+		"last_name" : "Portugali",
+		"gender" : "M",
+		"hire_date" : "1992-01-03",
+		"salary" : 63053,
+		"hiredate" : "2002-04-26"
+	},
+	{
+		"emp_no" : 10037,
+		"birth_date" : "1963-07-22",
+		"first_name" : "Pradeep",
+		"last_name" : "Makrucki",
+		"gender" : "M",
+		"hire_date" : "1990-12-05",
+		"salary" : 60992,
+		"hiredate" : "2001-12-02"
+	},
+	{
+		"emp_no" : 10038,
+		"birth_date" : "1960-07-20",
+		"first_name" : "Huan",
+		"last_name" : "Lortz",
+		"gender" : "M",
+		"hire_date" : "1989-09-20",
+		"salary" : 64254,
+		"hiredate" : "2001-09-17"
+	},
+	{
+		"emp_no" : 10039,
+		"birth_date" : "1959-10-01",
+		"first_name" : "Alejandro",
+		"last_name" : "Brender",
+		"gender" : "M",
+		"hire_date" : "1988-01-19",
+		"salary" : 63918,
+		"hiredate" : "2002-01-15"
+	},
+	{
+		"emp_no" : 10040,
+		"birth_date" : "1959-09-13",
+		"first_name" : "Weiyi",
+		"last_name" : "Meriste",
+		"gender" : "F",
+		"hire_date" : "1993-02-14",
+		"salary" : 72668,
+		"hiredate" : "2002-02-12"
+	},
+	{
+		"emp_no" : 10041,
+		"birth_date" : "1959-08-27",
+		"first_name" : "Uri",
+		"last_name" : "Lenart",
+		"gender" : "F",
+		"hire_date" : "1989-11-12",
+		"salary" : 81705,
+		"hiredate" : "2001-11-09"
+	},
+	{
+		"emp_no" : 10042,
+		"birth_date" : "1956-02-26",
+		"first_name" : "Magy",
+		"last_name" : "Stamatiou",
+		"gender" : "F",
+		"hire_date" : "1993-03-21",
+		"salary" : 95035,
+		"hiredate" : "2000-03-19"
+	},
+	{
+		"emp_no" : 10043,
+		"birth_date" : "1960-09-19",
+		"first_name" : "Yishay",
+		"last_name" : "Tzvieli",
+		"gender" : "M",
+		"hire_date" : "1990-10-20",
+		"salary" : 77659,
+		"hiredate" : "2001-10-17"
+	},
+	{
+		"emp_no" : 10044,
+		"birth_date" : "1961-09-21",
+		"first_name" : "Mingsen",
+		"last_name" : "Casley",
+		"gender" : "F",
+		"hire_date" : "1994-05-21",
+		"salary" : 58345,
+		"hiredate" : "2002-05-19"
+	},
+	{
+		"emp_no" : 10045,
+		"birth_date" : "1957-08-14",
+		"first_name" : "Moss",
+		"last_name" : "Shanbhogue",
+		"gender" : "M",
+		"hire_date" : "1989-09-02",
+		"salary" : 47984,
+		"hiredate" : "2001-11-15"
+	},
+	{
+		"emp_no" : 10046,
+		"birth_date" : "1960-07-23",
+		"first_name" : "Lucien",
+		"last_name" : "Rosenbaum",
+		"gender" : "M",
+		"hire_date" : "1992-06-20",
+		"salary" : 62218,
+		"hiredate" : "2002-06-18"
+	},
+	{
+		"emp_no" : 10047,
+		"birth_date" : "1952-06-29",
+		"first_name" : "Zvonko",
+		"last_name" : "Nyanchama",
+		"gender" : "M",
+		"hire_date" : "1989-03-31",
+		"salary" : 81037,
+		"hiredate" : "2002-03-28"
+	},
+	{
+		"emp_no" : 10048,
+		"birth_date" : "1963-07-11",
+		"first_name" : "Florian",
+		"last_name" : "Syrotiuk",
+		"gender" : "M",
+		"hire_date" : "1985-02-24",
+		"salary" : 40000,
+		"hiredate" : "1986-02-24"
+	},
+	{
+		"emp_no" : 10049,
+		"birth_date" : "1961-04-24",
+		"first_name" : "Basil",
+		"last_name" : "Tramer",
+		"gender" : "F",
+		"hire_date" : "1992-05-04",
+		"salary" : 51326,
+		"hiredate" : "2002-05-02"
+	},
+	{
+		"emp_no" : 10050,
+		"birth_date" : "1958-05-21",
+		"first_name" : "Yinghua",
+		"last_name" : "Dredge",
+		"gender" : "M",
+		"hire_date" : "1990-12-25",
+		"salary" : 97830,
+		"hiredate" : "2001-12-22"
+	}
+]

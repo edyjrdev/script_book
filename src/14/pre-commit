@@ -1,0 +1,12 @@
+#!/bin/sh
+
+# this file must be placed in .git/hooks to take effect
+
+untracked=$(git ls-files --others --exclude-standard | wc -l)
+if [ $untracked -gt 0 ]; then
+    git status
+    echo
+    echo "Pre commit fail! There are untracked files. Either run"
+    echo "'git add' or add an entry to .gitignore."
+    exit 1
+fi

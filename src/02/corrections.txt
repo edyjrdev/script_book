@@ -1,0 +1,8 @@
+Addin         Add-in
+Github        GitHub
+commited      committed
+diffrence     difference
+acommodate    accommodate
+calender      calendar
+
+

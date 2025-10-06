@@ -1,0 +1,21 @@
+# static NetworkManager configuration file 
+# ipv6 / enp7s0 / MAC = ...:27
+# see setup-vm-network.sh
+
+[connection]
+id=enp7s0
+uuid=2f55a905-7bbe-3ada-a024-09ff6350183b
+type=ethernet
+autoconnect-priority=-999
+interface-name=enp7s0
+
+[ipv4]
+method=disabled
+
+[ipv6]
+addr-gen-mode=default
+address1=2a01:abcd:abcd::27/64,2a01:abde:abce::2
+dns=2a01:abcd:abcd:0:1::add:1010;2a01:abcd:abcd:0:1::add:9999;2a01:abcd:abcd:0:1::add:9898;
+method=manual
+
+

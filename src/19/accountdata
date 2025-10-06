@@ -1,0 +1,7 @@
+# data for new account (read by make-new-account.sh)
+FIRSTNAME='Maria'
+LASTNAME='Smith'
+COMPANY='Smith & Davis Architects'
+EMAIL='maria.smith@example.com'
+URL='sd-architects'
+DB='sdarchitects'

@@ -1,0 +1,9 @@
+# sample configuration for mybackup.sh
+
+# Before starting mybackup.sh, copy this file to mybackup.conf
+# and replace the sample text by real database and hostnames.
+# Please note: * mysqldump exects a password in ~/.my.cnf
+#              * lftp exects a password in ~/.netrc
+MYSQLUSER=mysqlaccountname
+DBNAME=databasename
+FTPHOST=ftphostname
